@@ -1,0 +1,23 @@
+{
+  "length": 5,
+  "head": {
+    "value": 1,
+    "next": {
+      "value": 10,
+      "next": {
+        "value": 5,
+        "next": {
+          "value": 16,
+          "next": {
+            "value": 10,
+            "next": null
+          }
+        }
+      }
+    }
+  },
+  "tail": {
+    "value": 10,
+    "next": null
+  }
+}
